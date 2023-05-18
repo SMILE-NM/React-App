@@ -1,0 +1,49 @@
+body {
+    background-color: #1f1f1f;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #555;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  li button {
+    padding: 5px;
+    background-color: #888;
+    color: #fff;
+    cursor: pointer;
+  }
+  
